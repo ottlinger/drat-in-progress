@@ -22,7 +22,7 @@ after downloading the [YUI compressor](https://yui.github.io/yuicompressor/)
 ### Pictures
 
 To optimize pictures you may rely on
-* [jpegoptim](http://freecode.com/projects/jpegoptim/)
+* [jpegoptim](https://sourceforge.net/projects/jpegoptim/)
 
 In order to see potential just run this in a terminal:
 ```
